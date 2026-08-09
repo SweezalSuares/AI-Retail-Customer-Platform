@@ -1,0 +1,6 @@
+ai_cluster,age,annual_income,months_active,avg_monthly_spend,purchase_frequency,avg_order_value,discount_usage_rate,return_rate,browsing_time_minutes,support_interactions,engagement_score,loyalty_index,label
+0,43.99,42207.17,48.73,332.42,9.44,32.91,0.28,0.15,58.86,1.48,0.58,446.53,High-Return Shoppers
+1,43.63,42021.71,54.34,254.46,3.76,57.55,0.28,0.15,44.42,1.49,0.3,202.48,Frequent Small-Basket Buyers
+2,44.17,42336.78,31.93,309.81,4.9,61.01,0.28,0.15,118.39,1.49,0.6,141.35,At-Risk / Dormant
+3,43.95,42299.26,35.14,528.81,2.49,158.15,0.29,0.15,53.21,1.46,0.28,85.17,Premium Customers
+4,44.29,42220.03,16.36,254.36,4.57,50.92,0.28,0.15,44.36,1.46,0.34,71.2,Bargain Hunters

@@ -1,0 +1,14 @@
+[
+  "age",
+  "annual_income",
+  "months_active",
+  "avg_monthly_spend",
+  "purchase_frequency",
+  "avg_order_value",
+  "discount_usage_rate",
+  "return_rate",
+  "browsing_time_minutes",
+  "support_interactions",
+  "engagement_score",
+  "loyalty_index"
+]

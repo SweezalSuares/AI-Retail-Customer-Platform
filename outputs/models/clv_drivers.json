@@ -1,0 +1,11 @@
+[
+  "age",
+  "annual_income",
+  "purchase_frequency",
+  "avg_order_value",
+  "discount_usage_rate",
+  "return_rate",
+  "browsing_time_minutes",
+  "support_interactions",
+  "engagement_score"
+]
