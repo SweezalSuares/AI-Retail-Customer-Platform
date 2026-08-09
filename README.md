@@ -44,3 +44,7 @@ A retail analytics project that combines data cleaning, EDA, machine learning, c
 - Streamlit
 - joblib
 
+## Run
+  pip install -r requirements.txt
+  cd src
+  streamlit run app.py
